@@ -1,0 +1,47 @@
+body{
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+figure{
+    background-color: white;
+}
+
+ul{
+    text-align: left;
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    line-height: 1.6;
+}
+about{
+    display: block;
+}
+blockquote {
+  font-style: italic;
+ max-width: 545px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+}
+li {
+  margin: 16px 0;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+
+figcaption{
+    margin: 15px 0 5px 0;
+}
+
+a:visited {
+  color:darkgrey;
+}
+
+h1 {
+  font-size: 4rem;
+  margin-bottom: 0;
+}
